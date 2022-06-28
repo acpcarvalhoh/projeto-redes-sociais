@@ -13,6 +13,7 @@ body, html{
 body{
     background: url(../imagens/fundo-madeira.jpg) no-repeat top center;
     background-attachment: fixed;
+    overflow: hidden;
 }
 
 main{
@@ -31,6 +32,7 @@ section#phone{
     background: url( ../imagens/novo-iphone13.png) no-repeat;
     
     
+    
 }
 
 iframe#Screen{
@@ -41,8 +43,24 @@ iframe#Screen{
     height: 608px;
     border-radius: 27px;
     
+    
+    
 }
 
+#social-media{
+    max-width: 200px;
+    position: relative;
+    left: 900px;
+    top: 20px;
+    
+}
 
+.social{
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    display: block;
+    margin-top: 10px;
+}
 
 
