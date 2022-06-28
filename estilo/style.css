@@ -26,13 +26,20 @@ section#phone{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 500px;
-    height: 500px;
-    background:  url( ../imagens/iphone13-frame.png);
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: contain;
+    width: 322px;
+    height: 643px;
+    background: url( ../imagens/novo-iphone13.png) no-repeat;
     
+    
+}
+
+iframe#Screen{
+    position: relative;
+    top: 3%;
+    left: 5%;
+    width: 289px;
+    height: 608px;
+    border-radius: 27px;
     
 }
 
