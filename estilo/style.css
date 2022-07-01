@@ -16,10 +16,7 @@ body{
     overflow: hidden;
 }
 
-main{
-    position: relative;
-    height: 100vh;
-}
+
 
 section#phone{
     position: absolute;
@@ -43,8 +40,6 @@ iframe#Screen{
     height: 608px;
     border-radius: 27px;
     
-    
-    
 }
 
 #social-media{
@@ -57,8 +52,7 @@ iframe#Screen{
 
 .social{
     border-radius: 50%;
-    width: 80px;
-    height: 80px;
+    width: 50px;
     display: block;
     margin-top: 10px;
 }
