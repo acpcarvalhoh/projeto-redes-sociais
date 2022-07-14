@@ -43,10 +43,8 @@ iframe#Screen{
 }
 
 #social-media{
-    max-width: 200px;
-    position: relative;
-    left: 900px;
-    top: 20px;
+    float: right;
+    margin-right: 25px;
     
 }
 
