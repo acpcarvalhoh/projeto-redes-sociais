@@ -42,7 +42,7 @@ iframe#Screen{
     
 }
 
-#social-media{
+section#social-media{
     float: right;
     margin-right: 25px;
     
@@ -52,7 +52,11 @@ iframe#Screen{
     border-radius: 50%;
     width: 50px;
     display: block;
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
+.social:hover{
+    border: 2px solid rgb(232, 232, 164);
+    
+}
 
