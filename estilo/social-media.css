@@ -10,8 +10,27 @@ body::-webkit-scrollbar {width: 0! important}
 img{
     width: 289px;
     display: block;
-    
 }
+
+a{
+    text-decoration: none;
+    display: inline-block;
+    padding: 13px;
+    text-align: center;
+    font-family: 20px;
+    background-color: rgb(5, 18, 30);
+    color: rgb(233, 179, 179);
+    width: 260px;
+    font-weight: bolder;
+   
+
+}
+
+a:hover{
+    color: rgb(243, 239, 239);
+}
+
+
 
 
 
